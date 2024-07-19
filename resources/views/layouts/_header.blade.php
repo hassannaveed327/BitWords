@@ -255,8 +255,6 @@
                                 </div>
                             </div>
                         </li>
-
-
                         <li class="menu-item-has-children small-menu for-company">
                             <a href="/company/about">Company</a><span class="arrow-btn"></span>
                             <div class="small-menu-inner menu-mega">
